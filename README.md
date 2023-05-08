@@ -6,4 +6,5 @@ A mysql database and application backend for an e-commerce site. Built using MyS
 
 The video below will demonstrate how to initiate the server, DB, and the routes inside of insomnia.
 
-![Ecommerce-backend-demo webm](https://user-images.githubusercontent.com/119343529/236954193-91b0c6e3-f338-4223-86cb-d332aa7d1a46.jpg)
+
+![ecommercebackend-demo webm](https://user-images.githubusercontent.com/119343529/236957750-0419a41f-f4db-46ab-8e87-3071a843f1aa.jpg)
